@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  Hello3.cpp
+d:\leeinsook\workspace\c_workspace\hello3\hello3\hello3.cpp(11): error C3861: 'Prntf': identifier not found

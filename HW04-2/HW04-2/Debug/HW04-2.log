@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  HW04-2.cpp
+d:\leeinsook\workspace\c_workspace\hw04-2\hw04-2\hw04-2.cpp(18): error C2065: 'an0': undeclared identifier
+d:\leeinsook\workspace\c_workspace\hw04-2\hw04-2\hw04-2.cpp(18): error C2065: 'an1': undeclared identifier

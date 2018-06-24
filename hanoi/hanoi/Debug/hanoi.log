@@ -1,0 +1,3 @@
+﻿  hanoi.cpp
+d:\leeinsook\workspace\c_workspace\hanoi\hanoi\hanoi.cpp(15): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  hanoi.vcxproj -> D:\LeeInSook\Workspace\C_Workspace\hanoi\Debug\hanoi.exe

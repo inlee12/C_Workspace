@@ -1,0 +1,26 @@
+﻿  linked_list.cpp
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(15): error C2059: syntax error: 'delete'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(21): error C3646: 'ListNodePtr': unknown override specifier
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(21): error C3646: 'startPtr': unknown override specifier
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(21): error C2059: syntax error: 'constant'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(26): error C2365: 'printf': redefinition; previous definition was 'function'
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(946): note: see declaration of 'printf'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(27): error C2365: 'scanf_s': redefinition; previous definition was 'function'
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1309): note: see declaration of 'scanf_s'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(29): error C2059: syntax error: 'while'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(29): error C2143: syntax error: missing ';' before '{'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(29): error C2447: '{': missing function header (old-style formal list?)
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(61): error C2365: 'printf': redefinition; previous definition was 'function'
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(946): note: see declaration of 'printf'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(62): error C2059: syntax error: 'return'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(63): error C2059: syntax error: '}'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(63): error C2143: syntax error: missing ';' before '}'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(64): error C2143: syntax error: missing ';' before '{'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(64): error C2447: '{': missing function header (old-style formal list?)
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(95): error C2059: syntax error: 'delete'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(95): error C2143: syntax error: missing ';' before '{'
+d:\leeinsook\workspace\c_workspace\linked_list\linked_list\linked_list.cpp(95): error C2447: '{': missing function header (old-style formal list?)

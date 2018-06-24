@@ -1,0 +1,4 @@
+﻿  sscanf.cpp
+d:\leeinsook\workspace\c_workspace\sscanf\sscanf\sscanf.cpp(10): warning C4101: 'y': unreferenced local variable
+d:\leeinsook\workspace\c_workspace\sscanf\sscanf\sscanf.cpp(9): warning C4101: 'i': unreferenced local variable
+  sscanf.vcxproj -> D:\LeeInSook\Workspace\C_Workspace\sscanf\Debug\sscanf.exe

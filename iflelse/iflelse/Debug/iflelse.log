@@ -1,0 +1,4 @@
+﻿  iflelse.cpp
+d:\leeinsook\workspace\c_workspace\iflelse\iflelse\iflelse.cpp(43): error C2059: syntax error: 'return'
+d:\leeinsook\workspace\c_workspace\iflelse\iflelse\iflelse.cpp(44): error C2059: syntax error: '}'
+d:\leeinsook\workspace\c_workspace\iflelse\iflelse\iflelse.cpp(44): error C2143: syntax error: missing ';' before '}'

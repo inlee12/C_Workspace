@@ -1,0 +1,3 @@
+﻿  scanf_s.cpp
+d:\leeinsook\workspace\c_workspace\scanf_s\scanf_s\scanf_s.cpp(9): warning C4101: 'i': unreferenced local variable
+  scanf_s.vcxproj -> D:\LeeInSook\Workspace\C_Workspace\scanf_s\Debug\scanf_s.exe

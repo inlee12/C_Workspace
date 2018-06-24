@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  for2.cpp
+d:\leeinsook\workspace\c_workspace\for2\for2\for2.cpp(12): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+d:\leeinsook\workspace\c_workspace\for2\for2\for2.cpp(12): error C2065: '“': undeclared identifier
+d:\leeinsook\workspace\c_workspace\for2\for2\for2.cpp(12): error C2017: illegal escape sequence
+d:\leeinsook\workspace\c_workspace\for2\for2\for2.cpp(12): error C3872: '0x201d': this character is not allowed in an identifier
+d:\leeinsook\workspace\c_workspace\for2\for2\for2.cpp(12): error C2065: 'd': undeclared identifier
+d:\leeinsook\workspace\c_workspace\for2\for2\for2.cpp(12): error C2146: syntax error: missing ')' before identifier 'n”'
+d:\leeinsook\workspace\c_workspace\for2\for2\for2.cpp(12): error C2146: syntax error: missing ';' before identifier 'n”'
+d:\leeinsook\workspace\c_workspace\for2\for2\for2.cpp(12): error C2065: 'n”': undeclared identifier
+d:\leeinsook\workspace\c_workspace\for2\for2\for2.cpp(12): error C2059: syntax error: ')'

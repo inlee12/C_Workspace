@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: fibonacci - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\HP\AppData\Local\Temp\RSP9DCA.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/fibonacci.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\LeeInSook\Workspace\C_Workspace\fibonacci.c"
+]
+Creating command line "cl.exe @C:\Users\HP\AppData\Local\Temp\RSP9DCA.tmp" 
+<h3>Output Window</h3>
+Compiling...
+fibonacci.c
+f:\leeinsook\workspace\c_workspace\fibonacci.c(3) : fatal error C1083: Cannot open include file: 'fibonacci.h': No such file or directory
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+fibonacci.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

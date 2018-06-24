@@ -1,0 +1,4 @@
+﻿  function1.cpp
+d:\leeinsook\workspace\c_workspace\function1\function1\function1.cpp(8): error C2143: syntax error: missing ';' before 'for'
+d:\leeinsook\workspace\c_workspace\function1\function1\function1.cpp(8): error C2065: 'n': undeclared identifier
+d:\leeinsook\workspace\c_workspace\function1\function1\function1.cpp(21): error C3861: 'factorial': identifier not found
