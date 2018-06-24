@@ -1,3 +1,0 @@
-﻿  17107025HW01-1.cpp
-d:\leeinsook\workspace\c_workspace\hello\hello\17107025hw01-1.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Hello.vcxproj -> D:\LeeInSook\Workspace\C_Workspace\Hello\Debug\Hello.exe
